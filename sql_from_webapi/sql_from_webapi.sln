@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sql_from_webapi", "sql_from_webapi\sql_from_webapi.csproj", "{1C33772D-3C60-478D-90E6-3A90FEA97061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice_class_library", "practice_class_library\practice_class_library.csproj", "{1AF0C781-724F-4DE8-965B-25DB277DB653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C33772D-3C60-478D-90E6-3A90FEA97061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C33772D-3C60-478D-90E6-3A90FEA97061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C33772D-3C60-478D-90E6-3A90FEA97061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C33772D-3C60-478D-90E6-3A90FEA97061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF0C781-724F-4DE8-965B-25DB277DB653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF0C781-724F-4DE8-965B-25DB277DB653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF0C781-724F-4DE8-965B-25DB277DB653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF0C781-724F-4DE8-965B-25DB277DB653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A5C0923-D2BD-4F09-A409-85FC37FB893E}
+	EndGlobalSection
+EndGlobal
